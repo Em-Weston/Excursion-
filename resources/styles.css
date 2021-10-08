@@ -1,1 +1,19 @@
-/*Css stylesheet for the webpage */
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+    text-decoration: underline;
+}
+
+#heading {
+    font-family: Verdana;
+    font-weight: normal; 
+    font-size: 50px; 
+    color: white;
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
