@@ -1,8 +1,17 @@
+header {
+    margin-bottom: 21px;
+}
+
 body {
     background-color: black;
     text-align: center;
     font-family: Verdana;
     text-decoration: underline;
+    display: block;
+    margin-top: 8;
+    margin-bottom: 8;
+    margin-right: 8;
+    margin-left: 8;
 }
 
 #heading {
@@ -11,9 +20,49 @@ body {
     font-size: 50px; 
     color: white;
     text-align: center;
+    margin-top: 33.5;
+    margin-bottom: 33.5;
 }
 
 .link {
     color: aquamarine;
     font-size: 16px;
+}
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: inherit;
+}
+
+.sub-heading {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#text {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    margin-bottom: 8px;
+}
+
+#tent-image {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.icon {
+    display: inherit;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 16px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
 }
