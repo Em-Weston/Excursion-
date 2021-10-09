@@ -21,7 +21,8 @@ I am building a website to showcase a new smartphone app, called 'Excursion'. 'E
     
 ## Technologies
 Project is created with:
-* JavaScript
+* HTML
+* CSS
 * Git
 * GitHub
 * Command line
